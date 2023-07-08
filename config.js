@@ -175,7 +175,7 @@ global.exito = eg
 //⊱ ━━━━━.⋅ Información | Information ⋅.━━━━ ⊰
 
 global.wm = 'ElyBot'
-global.igfg = '@ff_florez'
+global.igfg = '@clan_dark__souks'
 global.wait = '*⌛ _Cargando | Charging..._ ▬▭▭▭▭▭▭*'
 global.waitt = '*⌛ _Cargando | Charging..._ ▬▬▭▭▭*'
 global.waittt = '*⌛ _Cargando | Charging..._ ▬▬▬▬▭▭*'
